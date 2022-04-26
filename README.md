@@ -1,2 +1,2 @@
 # glowing-octo-goggles
-My Blog 
+Learning to Code :)
